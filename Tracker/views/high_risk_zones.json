@@ -1,0 +1,162 @@
+[
+    {
+      "location": "Kedarnath Valley",
+      "latitude": 30.73,
+      "longitude": 79.06,
+      "state": "Uttarakhand",
+      "risk_level": "High",
+      "hazards": ["Flash Flood", "Landslide", "Cloudburst", "Glacial Lake Outburst"]
+    },
+    {
+      "location": "Joshimath",
+      "latitude": 30.56,
+      "longitude": 79.56,
+      "state": "Uttarakhand",
+      "risk_level": "High",
+      "hazards": ["Land Subsidence", "Landslide", "Earthquake"]
+    },
+    {
+      "location": "Vasudhara Tal",
+      "latitude": 30.82,
+      "longitude": 79.52,
+      "state": "Uttarakhand",
+      "risk_level": "High",
+      "hazards": ["Landslide", "Glacial Hazards", "Avalanche"]
+    },
+    {
+      "location": "Tanakpur",
+      "latitude": 29.07,
+      "longitude": 80.11,
+      "state": "Uttarakhand",
+      "risk_level": "Moderate to High",
+      "hazards": ["Flood", "Landslide"]
+    },
+    {
+      "location": "Satopanth Tal",
+      "latitude": 30.73,
+      "longitude": 79.43,
+      "state": "Uttarakhand",
+      "risk_level": "High",
+      "hazards": ["Glacial Lake Outburst", "Avalanche", "Landslide"]
+    },
+    {
+      "location": "Nurpur, Kangra district",
+      "latitude": 32.30,
+      "longitude": 75.90,
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Landslide"]
+    },
+    {
+      "location": "Dakshi, Solan district",
+      "latitude": 30.92,
+      "longitude": 77.12,
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Landslide"]
+    },
+    {
+      "location": "Chamba district (Epicenter)",
+      "latitude": 32.87,
+      "longitude": 76.09,
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Earthquake"]
+    },
+    {
+      "location": "Chamba district (HQ)",
+      "latitude": 32.1917,
+      "longitude": 76.0583,
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Earthquake", "Landslide"]
+    },
+    {
+      "location": "Kangra district",
+      "latitude_range": [31.6833, 32.4667],
+      "longitude_range": [75.5833, 77.0667],
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Earthquake", "Landslide"]
+    },
+    {
+      "location": "Kullu district",
+      "latitude": 31.9566,
+      "longitude": 77.1095,
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Landslide", "Earthquake"]
+    },
+    {
+      "location": "Mandi district",
+      "latitude": 31.7084,
+      "longitude": 76.9326,
+      "state": "Himachal Pradesh",
+      "risk_level": "High",
+      "hazards": ["Landslide", "Flood", "Earthquake"]
+    },
+    {
+      "location": "Jorhat-Teok, Assam (Jhanji River breach)",
+      "latitude": 26.80,
+      "longitude": 94.22,
+      "state": "Assam",
+      "risk_level": "High",
+      "hazards": ["Flood", "River Breach"]
+    },
+    {
+      "location": "Hyderabad (Chaderghat / Moosarambagh, Telangana)",
+      "latitude": 17.38,
+      "longitude": 78.50,
+      "state": "Telangana",
+      "risk_level": "High",
+      "hazards": ["Flood", "River Overflow"]
+    },
+    {
+      "location": "Kalaburagi / Jewargi region, Karnataka",
+      "latitude": 17.23,
+      "longitude": 76.69,
+      "state": "Karnataka",
+      "risk_level": "High",
+      "hazards": ["Flood", "Crop Damage"]
+    },
+    {
+      "location": "Varanasi, Uttar Pradesh",
+      "latitude": 25.32,
+      "longitude": 82.99,
+      "state": "Uttar Pradesh",
+      "risk_level": "High",
+      "hazards": ["Flood", "River Overflow"]
+    },
+    {
+      "location": "Ukai Dam / Surat, Gujarat",
+      "latitude": 21.20,
+      "longitude": 73.12,
+      "state": "Gujarat",
+      "risk_level": "High",
+      "hazards": ["Flood", "Dam Overflow"]
+    },
+    {
+      "location": "Ahmedpur, Latur, Maharashtra",
+      "latitude": 18.42,
+      "longitude": 76.70,
+      "state": "Maharashtra",
+      "risk_level": "High",
+      "hazards": ["Flood", "Heavy Rainfall"]
+    },
+    {
+      "location": "Rudraprayag / Tehri Garhwal, Uttarakhand",
+      "latitude": 30.40,
+      "longitude": 79.00,
+      "state": "Uttarakhand",
+      "risk_level": "High",
+      "hazards": ["Landslide", "Earthquake"]
+    },
+    {
+      "location": "Vilangad, Kozhikode, Kerala",
+      "latitude": 11.55,
+      "longitude": 75.90,
+      "state": "Kerala",
+      "risk_level": "High",
+      "hazards": ["Landslide", "Heavy Rainfall"]
+    }
+  ]
